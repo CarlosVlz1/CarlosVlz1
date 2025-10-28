@@ -6,8 +6,7 @@ Software developer passionate about technology and the development of scalable, 
 
 ## 🧰 Tech Stack
 
-- **Frontend**: React, TypeScript  
-- **Backend**: Node.js, Express, Nest 
+- **Backend**: Node.js, Express, NestJS 
 
 ## 📊 GitHub Stats on public repos
 ![CarlosVlz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosVlz1&show_icons=true&theme=tokyonight)
